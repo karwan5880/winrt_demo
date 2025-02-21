@@ -534,10 +534,10 @@ void Scapture::that_one_important_function_that_run_in_the_background_to_write_f
 	/* D3DDEVICE, D3DCONTEXT, FRAMEPOOL, GRAPHICSSESSION, FRAMEARRIVED, CALLBACK, */
 	/* EVERYTHING WILL GET DESTROYED. */
 	
-	/* anyway, this is my noob implementation/demonstration on winrt Windows Graphics Capture library to */
-	/* to capture any desktop_window, using class/object-oriented design. * /
-	/* if someone good with C++ come across this code, please rewrite the whole thing if you want, */
-	/* so that it becomes more C++ style-ish, and more efficient, and more powerful, */
+	/* this is my implementation/demonstration on winrt Windows Graphics Capture library to */
+	/* to capture any desktop window, using class/object-oriented design. * /
+	/* i am not good with C++ code, I wish to rewrite the whole thing, */
+	/* so that it becomes more efficient, and more powerful, */
 	/* thank you.  */
 	
 	/* Author : github.com/karwan5880 */

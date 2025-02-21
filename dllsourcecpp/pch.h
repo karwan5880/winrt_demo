@@ -39,5 +39,12 @@
 #include <d3d11.h>
 #include <dxgi1_2.h>
 
+//wincom
+#include <windows.graphics.capture.h>
+#include <windows.ui.composition.interop.h>
+#include <d2d1_1.h>
+#include <dxgi1_6.h>
+#include <winrt/Windows.Foundation.Metadata.h>
+
 
 #endif //PCH_H
